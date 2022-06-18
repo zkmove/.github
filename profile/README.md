@@ -1,1 +1,1 @@
-The repository for zkMove has been moved to a new location: [Young Rocks](https://github.com/young-rocks)
+zkMove has been moved to our new [repo](https://github.com/young-rocks/zkmove).
